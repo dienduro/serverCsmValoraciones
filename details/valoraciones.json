@@ -1,0 +1,1282 @@
+{
+    "estado": true,
+    "success": true,
+    "codigoMensaje": 0,
+    "mensaje": "",
+    "datos": [
+        {
+            "id": "9",
+            "nombre": "Castellano",
+            "periodos": [
+                {
+                    "id": "15",
+                    "nombre": "I",
+                    "idAsignatura": "9",
+                    "definitivo": 0,
+                    "nota": "3.88"
+                },
+                {
+                    "id": "16",
+                    "nombre": "II",
+                    "idAsignatura": "9",
+                    "definitivo": 0,
+                    "nota": "4.50"
+                },
+                {
+                    "id": "17",
+                    "nombre": "III",
+                    "idAsignatura": "9",
+                    "definitivo": 0,
+                    "nota": "4.60"
+                },
+                {
+                    "id": "18",
+                    "nombre": "IV",
+                    "idAsignatura": "9",
+                    "definitivo": 0,
+                    "nota": "4.70"
+                },
+                {
+                    "id": null,
+                    "nombre": "DF",
+                    "idAsignatura": "9",
+                    "definitivo": 1,
+                    "nota": "4.42"
+                }
+            ],
+            "asignaturas": [
+                {
+                    "idArea": "9",
+                    "id": "9",
+                    "nombre": "Castellano",
+                    "tipoNota": "0",
+                    "periodos": [
+                        {
+                            "id": "15",
+                            "nombre": "I",
+                            "idAsignatura": "9",
+                            "definitivo": 0,
+                            "nota": "3.88"
+                        },
+                        {
+                            "id": "16",
+                            "nombre": "II",
+                            "idAsignatura": "9",
+                            "definitivo": 0,
+                            "nota": "4.50"
+                        },
+                        {
+                            "id": "17",
+                            "nombre": "III",
+                            "idAsignatura": "9",
+                            "definitivo": 0,
+                            "nota": "4.60"
+                        },
+                        {
+                            "id": "18",
+                            "nombre": "IV",
+                            "idAsignatura": "9",
+                            "definitivo": 0,
+                            "nota": "4.70"
+                        },
+                        {
+                            "id": null,
+                            "nombre": "DF",
+                            "idAsignatura": "9",
+                            "definitivo": 1,
+                            "nota": "4.42"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "18",
+            "nombre": "Ciencias Naturales",
+            "periodos": [
+                {
+                    "idArea": "18",
+                    "idPeriodo": "15",
+                    "nombrePeriodo": "I",
+                    "nota": "3.10"
+                },
+                {
+                    "idArea": "18",
+                    "idPeriodo": "16",
+                    "nombrePeriodo": "II",
+                    "nota": "4.06"
+                },
+                {
+                    "idArea": "18",
+                    "idPeriodo": "17",
+                    "nombrePeriodo": "III",
+                    "nota": "3.98"
+                },
+                {
+                    "idArea": "18",
+                    "idPeriodo": "18",
+                    "nombrePeriodo": "IV",
+                    "nota": "4.26"
+                },
+                {
+                    "idArea": "18",
+                    "idPeriodo": null,
+                    "nombrePeriodo": "DF",
+                    "nota": "4.26"
+                }
+            ],
+            "asignaturas": [
+                {
+                    "idArea": "18",
+                    "id": "18",
+                    "nombre": "Biolog\u00eda",
+                    "tipoNota": "0",
+                    "periodos": [
+                        {
+                            "id": "15",
+                            "nombre": "I",
+                            "idAsignatura": "18",
+                            "definitivo": 0,
+                            "nota": "3.13"
+                        },
+                        {
+                            "id": "16",
+                            "nombre": "II",
+                            "idAsignatura": "18",
+                            "definitivo": 0,
+                            "nota": "4.17"
+                        },
+                        {
+                            "id": "17",
+                            "nombre": "III",
+                            "idAsignatura": "18",
+                            "definitivo": 0,
+                            "nota": "4.61"
+                        },
+                        {
+                            "id": "18",
+                            "nombre": "IV",
+                            "idAsignatura": "18",
+                            "definitivo": 0,
+                            "nota": "3.80"
+                        },
+                        {
+                            "id": null,
+                            "nombre": "DF",
+                            "idAsignatura": "18",
+                            "definitivo": 1,
+                            "nota": "3.93"
+                        }
+                    ]
+                },
+                {
+                    "idArea": "18",
+                    "id": "19",
+                    "nombre": "F\u00edsica",
+                    "tipoNota": "0",
+                    "periodos": [
+                        {
+                            "id": "15",
+                            "nombre": "I",
+                            "idAsignatura": "19",
+                            "definitivo": 0,
+                            "nota": "3.18"
+                        },
+                        {
+                            "id": "16",
+                            "nombre": "II",
+                            "idAsignatura": "19",
+                            "definitivo": 0,
+                            "nota": "4.31"
+                        },
+                        {
+                            "id": "17",
+                            "nombre": "III",
+                            "idAsignatura": "19",
+                            "definitivo": 0,
+                            "nota": "3.79"
+                        },
+                        {
+                            "id": "18",
+                            "nombre": "IV",
+                            "idAsignatura": "19",
+                            "definitivo": 0,
+                            "nota": "4.25"
+                        },
+                        {
+                            "id": null,
+                            "nombre": "DF",
+                            "idAsignatura": "19",
+                            "definitivo": 1,
+                            "nota": "3.88"
+                        }
+                    ]
+                },
+                {
+                    "idArea": "18",
+                    "id": "20",
+                    "nombre": "Qu\u00edmica",
+                    "tipoNota": "0",
+                    "periodos": [
+                        {
+                            "id": "15",
+                            "nombre": "I",
+                            "idAsignatura": "20",
+                            "definitivo": 0,
+                            "nota": "3.00"
+                        },
+                        {
+                            "id": "16",
+                            "nombre": "II",
+                            "idAsignatura": "20",
+                            "definitivo": 0,
+                            "nota": "3.76"
+                        },
+                        {
+                            "id": "17",
+                            "nombre": "III",
+                            "idAsignatura": "20",
+                            "definitivo": 0,
+                            "nota": "3.85"
+                        },
+                        {
+                            "id": "18",
+                            "nombre": "IV",
+                            "idAsignatura": "20",
+                            "definitivo": 0,
+                            "nota": "4.50"
+                        },
+                        {
+                            "id": null,
+                            "nombre": "DF",
+                            "idAsignatura": "20",
+                            "definitivo": 1,
+                            "nota": "3.78"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "22",
+            "nombre": "Ciencias Politicas",
+            "periodos": [
+                {
+                    "idArea": "22",
+                    "idPeriodo": "15",
+                    "nombrePeriodo": "I",
+                    "nota": "3.53"
+                },
+                {
+                    "idArea": "22",
+                    "idPeriodo": "16",
+                    "nombrePeriodo": "II",
+                    "nota": "4.81"
+                },
+                {
+                    "idArea": "22",
+                    "idPeriodo": "17",
+                    "nombrePeriodo": "III",
+                    "nota": "4.60"
+                },
+                {
+                    "idArea": "22",
+                    "idPeriodo": "18",
+                    "nombrePeriodo": "IV",
+                    "nota": "4.77"
+                },
+                {
+                    "idArea": "22",
+                    "idPeriodo": null,
+                    "nombrePeriodo": "DF",
+                    "nota": "4.77"
+                }
+            ],
+            "asignaturas": [
+                {
+                    "idArea": "22",
+                    "id": "27",
+                    "nombre": "Ciencias Politicas",
+                    "tipoNota": "0",
+                    "periodos": [
+                        {
+                            "id": "15",
+                            "nombre": "I",
+                            "idAsignatura": "27",
+                            "definitivo": 0,
+                            "nota": "3.53"
+                        },
+                        {
+                            "id": "16",
+                            "nombre": "II",
+                            "idAsignatura": "27",
+                            "definitivo": 0,
+                            "nota": "4.81"
+                        },
+                        {
+                            "id": "17",
+                            "nombre": "III",
+                            "idAsignatura": "27",
+                            "definitivo": 0,
+                            "nota": "4.60"
+                        },
+                        {
+                            "id": "18",
+                            "nombre": "IV",
+                            "idAsignatura": "27",
+                            "definitivo": 0,
+                            "nota": "4.77"
+                        },
+                        {
+                            "id": null,
+                            "nombre": "DF",
+                            "idAsignatura": "27",
+                            "definitivo": 1,
+                            "nota": "4.43"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "19",
+            "nombre": "Ciencias Sociales",
+            "periodos": [
+                {
+                    "idArea": "19",
+                    "idPeriodo": "15",
+                    "nombrePeriodo": "I",
+                    "nota": "4.02"
+                },
+                {
+                    "idArea": "19",
+                    "idPeriodo": "16",
+                    "nombrePeriodo": "II",
+                    "nota": "4.76"
+                },
+                {
+                    "idArea": "19",
+                    "idPeriodo": "17",
+                    "nombrePeriodo": "III",
+                    "nota": "4.63"
+                },
+                {
+                    "idArea": "19",
+                    "idPeriodo": "18",
+                    "nombrePeriodo": "IV",
+                    "nota": "4.90"
+                }
+            ],
+            "asignaturas": [
+                {
+                    "idArea": "19",
+                    "id": "22",
+                    "nombre": "Constituci\u00f3n Pol\u00edtica",
+                    "tipoNota": "0",
+                    "periodos": [
+                        {
+                            "id": "15",
+                            "nombre": "I",
+                            "idAsignatura": "22",
+                            "definitivo": 0,
+                            "nota": "4.29"
+                        },
+                        {
+                            "id": "16",
+                            "nombre": "II",
+                            "idAsignatura": "22",
+                            "definitivo": 0,
+                            "nota": "5.00"
+                        },
+                        {
+                            "id": "17",
+                            "nombre": "III",
+                            "idAsignatura": "22",
+                            "definitivo": 0,
+                            "nota": "4.77"
+                        },
+                        {
+                            "id": "18",
+                            "nombre": "IV",
+                            "idAsignatura": "22",
+                            "definitivo": 0,
+                            "nota": "4.89"
+                        },
+                        {
+                            "id": null,
+                            "nombre": "DF",
+                            "idAsignatura": "22",
+                            "definitivo": 1,
+                            "nota": "4.74"
+                        }
+                    ]
+                },
+                {
+                    "idArea": "19",
+                    "id": "23",
+                    "nombre": "Filosofia",
+                    "tipoNota": "0",
+                    "periodos": [
+                        {
+                            "id": "15",
+                            "nombre": "I",
+                            "idAsignatura": "23",
+                            "definitivo": 0,
+                            "nota": "3.88"
+                        },
+                        {
+                            "id": "16",
+                            "nombre": "II",
+                            "idAsignatura": "23",
+                            "definitivo": 0,
+                            "nota": "4.79"
+                        },
+                        {
+                            "id": "17",
+                            "nombre": "III",
+                            "idAsignatura": "23",
+                            "definitivo": 0,
+                            "nota": "4.67"
+                        },
+                        {
+                            "id": "18",
+                            "nombre": "IV",
+                            "idAsignatura": "23",
+                            "definitivo": 0,
+                            "nota": "4.94"
+                        },
+                        {
+                            "id": null,
+                            "nombre": "DF",
+                            "idAsignatura": "23",
+                            "definitivo": 1,
+                            "nota": "4.57"
+                        }
+                    ]
+                },
+                {
+                    "idArea": "19",
+                    "id": "21",
+                    "nombre": "Sociales",
+                    "tipoNota": "0",
+                    "periodos": [
+                        {
+                            "id": "15",
+                            "nombre": "I",
+                            "idAsignatura": "21",
+                            "definitivo": 0,
+                            "nota": "4.38"
+                        },
+                        {
+                            "id": "16",
+                            "nombre": "II",
+                            "idAsignatura": "21",
+                            "definitivo": 0,
+                            "nota": "4.36"
+                        },
+                        {
+                            "id": "17",
+                            "nombre": "III",
+                            "idAsignatura": "21",
+                            "definitivo": 0,
+                            "nota": "4.32"
+                        },
+                        {
+                            "id": "18",
+                            "nombre": "IV",
+                            "idAsignatura": "21",
+                            "definitivo": 0,
+                            "nota": "4.75"
+                        },
+                        {
+                            "id": null,
+                            "nombre": "DF",
+                            "idAsignatura": "21",
+                            "definitivo": 1,
+                            "nota": "4.45"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "15",
+            "nombre": "Educaci\u00f3n Fisica",
+            "periodos": [
+                {
+                    "idArea": "15",
+                    "idPeriodo": "15",
+                    "nombrePeriodo": "I",
+                    "nota": "4.28"
+                },
+                {
+                    "idArea": "15",
+                    "idPeriodo": "16",
+                    "nombrePeriodo": "II",
+                    "nota": "4.36"
+                },
+                {
+                    "idArea": "15",
+                    "idPeriodo": "17",
+                    "nombrePeriodo": "III",
+                    "nota": "3.59"
+                },
+                {
+                    "idArea": "15",
+                    "idPeriodo": "18",
+                    "nombrePeriodo": "IV",
+                    "nota": "4.50"
+                }
+            ],
+            "asignaturas": [
+                {
+                    "idArea": "15",
+                    "id": "15",
+                    "nombre": "Educaci\u00f3n Fisica",
+                    "tipoNota": "0",
+                    "periodos": [
+                        {
+                            "id": "15",
+                            "nombre": "I",
+                            "idAsignatura": "15",
+                            "definitivo": 0,
+                            "nota": "4.28"
+                        },
+                        {
+                            "id": "16",
+                            "nombre": "II",
+                            "idAsignatura": "15",
+                            "definitivo": 0,
+                            "nota": "4.36"
+                        },
+                        {
+                            "id": "17",
+                            "nombre": "III",
+                            "idAsignatura": "15",
+                            "definitivo": 0,
+                            "nota": "3.59"
+                        },
+                        {
+                            "id": "18",
+                            "nombre": "IV",
+                            "idAsignatura": "15",
+                            "definitivo": 0,
+                            "nota": "4.50"
+                        },
+                        {
+                            "id": null,
+                            "nombre": "DF",
+                            "idAsignatura": "15",
+                            "definitivo": 1,
+                            "nota": "4.18"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "10",
+            "nombre": "Educaci\u00f3n Religiosa",
+            "periodos": [
+                {
+                    "idArea": "10",
+                    "idPeriodo": "15",
+                    "nombrePeriodo": "I",
+                    "nota": "4.65"
+                },
+                {
+                    "idArea": "10",
+                    "idPeriodo": "16",
+                    "nombrePeriodo": "II",
+                    "nota": "4.54"
+                },
+                {
+                    "idArea": "10",
+                    "idPeriodo": "17",
+                    "nombrePeriodo": "III",
+                    "nota": "4.26"
+                }
+            ],
+            "asignaturas": [
+                {
+                    "idArea": "10",
+                    "id": "10",
+                    "nombre": "Educaci\u00f3n Religiosa",
+                    "tipoNota": "0",
+                    "periodos": [
+                        {
+                            "id": "15",
+                            "nombre": "I",
+                            "idAsignatura": "10",
+                            "criterios": [
+                                {
+                                    "id": "10",
+                                    "nombre": "I",
+                                    "notaFinal": "3.5",
+                                    "actividades": [
+                                        {
+                                            "id":1,
+                                            "nombre": "prueba 1",
+                                            "porcentaje": "10%",
+                                            "nota": "3.00"
+                                        }
+                                    ],
+                                    "porcentaje": "30%"
+                                },
+                                {
+                                    "id": "11",
+                                    "nombre": "II",
+                                    "notaFinal": "3.5",
+                                    "actividades": [
+                                        {
+                                            "id":1,
+                                            "nombre": "prueba 1",
+                                            "porcentaje": "10%",
+                                            "nota": "3.00"
+                                        },
+                                        {
+                                            "id":2,
+                                            "nombre": "prueba 2",
+                                            "porcentaje": "10%",
+                                            "nota": "3.00"
+                                        }
+                                    ],
+                                    "porcentaje": "30%"
+                                },
+                                {
+                                    "id": "12",
+                                    "nombre": "III",
+                                    "notaFinal": "3.5",
+                                    "actividades": [
+                                        {
+                                            "id":2,
+                                            "nombre": "nombre",
+                                            "porcentaje": "10%",
+                                            "nota": "3.00"
+                                        }
+                                    ],
+                                    "porcentaje": "20%"
+                                }
+                                
+                            ],
+                            "definitivo": 0,
+                            "nota": "4.65"
+                        },
+                        {
+                            "id": "16",
+                            "nombre": "II",
+                            "idAsignatura": "10",
+                            "criterios": [
+                                {
+                                    "id": "10",
+                                    "nombre": "I",
+                                    "notaFinal": "3.5",
+                                    "actividades": [
+                                        {
+                                            "nombre": "nombre",
+                                            "porcentaje": "10%",
+                                            "nota": "3.00"
+                                        }
+                                    ],
+                                    "porcentaje": "30%"
+                                },
+                                {
+                                    "id": "11",
+                                    "nombre": "II",
+                                    "notaFinal": "3.5",
+                                    "actividades": [
+                                        {
+                                            "nombre": "nombre",
+                                            "porcentaje": "10%",
+                                            "nota": "3.00"
+                                        }
+                                    ],
+                                    "porcentaje": "30%"
+                                },
+                                {
+                                    "id": "12",
+                                    "nombre": "III",
+                                    "notaFinal": "3.5",
+                                    "actividades": [
+                                        {
+                                            "nombre": "nombre",
+                                            "porcentaje": "10%",
+                                            "nota": "3.00"
+                                        }
+                                    ],
+                                    "porcentaje": "20%"
+                                },
+                                {
+                                    "id": "12",
+                                    "nombre": "III",
+                                    "notaFinal": "3.5",
+                                    "actividades": [
+                                        {
+                                            "nombre": "nombre",
+                                            "porcentaje": "10%",
+                                            "nota": "3.00"
+                                        }
+                                    ],
+                                    "porcentaje": "20%"
+                                }
+                            ],
+                            "definitivo": 0,
+                            "nota": "4.54"
+                        },
+                        {
+                            "id": "17",
+                            "nombre": "III",
+                            "idAsignatura": "10",
+                            "criterios": [
+                                {
+                                    "id": "10",
+                                    "nombre": "I",
+                                    "nota": "3.5",
+                                    "actividades": [
+                                        {
+                                            "nombre": "nombre",
+                                            "porcentaje": "10%",
+                                            "nota": "3.00"
+                                        }
+                                    ],
+                                    "porcentaje": "30%"
+                                },
+                                {
+                                    "id": "11",
+                                    "nombre": "II",
+                                    "nota": "3.5",
+                                    "actividades": [
+                                        {
+                                            "nombre": "nombre",
+                                            "porcentaje": "10%",
+                                            "nota": "3.00"
+                                        }
+                                    ],
+                                    "porcentaje": "30%"
+                                },
+                                {
+                                    "id": "12",
+                                    "nombre": "III",
+                                    "nota": "3.5",
+                                    "actividades": [
+                                        {
+                                            "nombre": "nombre",
+                                            "porcentaje": "10%",
+                                            "nota": "3.00"
+                                        }
+                                    ],
+                                    "porcentaje": "20%"
+                                },
+                                {
+                                    "id": "12",
+                                    "nombre": "III",
+                                    "nota": "3.5",
+                                    "actividades": [
+                                        {
+                                            "nombre": "nombre",
+                                            "porcentaje": "10%",
+                                            "nota": "3.00"
+                                        }
+                                    ],
+                                    "porcentaje": "20%"
+                                }
+                            ],
+                            "definitivo": 0,
+                            "nota": "4.26"
+                        },
+                        
+                        {
+                            "id": null,
+                            "nombre": "DF",
+                            "idAsignatura": "10",
+                            "definitivo": 1,
+                            "nota": "4.48"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "14",
+            "nombre": "Ingles",
+            "periodos": [
+                {
+                    "idArea": "14",
+                    "idPeriodo": "15",
+                    "nombrePeriodo": "I",
+                    "nota": "3.62"
+                },
+                {
+                    "idArea": "14",
+                    "idPeriodo": "16",
+                    "nombrePeriodo": "II",
+                    "nota": "4.94"
+                },
+                {
+                    "idArea": "14",
+                    "idPeriodo": "17",
+                    "nombrePeriodo": "III",
+                    "nota": "4.02"
+                },
+                {
+                    "idArea": "14",
+                    "idPeriodo": "18",
+                    "nombrePeriodo": "IV",
+                    "nota": "5.00"
+                }
+            ],
+            "asignaturas": [
+                {
+                    "idArea": "14",
+                    "id": "14",
+                    "nombre": "Ingles",
+                    "tipoNota": "0",
+                    "periodos": [
+                        {
+                            "id": "15",
+                            "nombre": "I",
+                            "idAsignatura": "14",
+                            "definitivo": 0,
+                            "nota": "3.62"
+                        },
+                        {
+                            "id": "16",
+                            "nombre": "II",
+                            "idAsignatura": "14",
+                            "definitivo": 0,
+                            "nota": "4.94"
+                        },
+                        {
+                            "id": "17",
+                            "nombre": "III",
+                            "idAsignatura": "14",
+                            "definitivo": 0,
+                            "nota": "4.02"
+                        },
+                        {
+                            "id": "18",
+                            "nombre": "IV",
+                            "idAsignatura": "14",
+                            "definitivo": 0,
+                            "nota": "5.00"
+                        },
+                        {
+                            "id": null,
+                            "nombre": "DF",
+                            "idAsignatura": "14",
+                            "definitivo": 1,
+                            "nota": "4.40"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "20",
+            "nombre": "Matem\u00e1ticas",
+            "periodos": [
+                {
+                    "idArea": "20",
+                    "idPeriodo": "15",
+                    "nombrePeriodo": "I",
+                    "nota": "4.01"
+                },
+                {
+                    "idArea": "20",
+                    "idPeriodo": "16",
+                    "nombrePeriodo": "II",
+                    "nota": "3.97"
+                },
+                {
+                    "idArea": "20",
+                    "idPeriodo": "17",
+                    "nombrePeriodo": "III",
+                    "nota": "4.25"
+                },
+                {
+                    "idArea": "20",
+                    "idPeriodo": "18",
+                    "nombrePeriodo": "IV",
+                    "nota": "4.00"
+                }
+            ],
+            "asignaturas": [
+                {
+                    "idArea": "20",
+                    "id": "24",
+                    "nombre": "Matem\u00e1ticas",
+                    "tipoNota": "0",
+                    "periodos": [
+                        {
+                            "id": "15",
+                            "nombre": "I",
+                            "idAsignatura": "24",
+                            "definitivo": 0,
+                            "nota": "4.01"
+                        },
+                        {
+                            "id": "16",
+                            "nombre": "II",
+                            "idAsignatura": "24",
+                            "definitivo": 0,
+                            "nota": "3.97"
+                        },
+                        {
+                            "id": "17",
+                            "nombre": "III",
+                            "idAsignatura": "24",
+                            "definitivo": 0,
+                            "nota": "4.25"
+                        },
+                        {
+                            "id": "18",
+                            "nombre": "IV",
+                            "idAsignatura": "24",
+                            "definitivo": 0,
+                            "nota": "4.00"
+                        },
+                        {
+                            "id": null,
+                            "nombre": "DF",
+                            "idAsignatura": "24",
+                            "definitivo": 1,
+                            "nota": "4.06"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "16",
+            "nombre": "Tecnolog\u00eda e Inform\u00e1tica",
+            "periodos": [
+                {
+                    "idArea": "16",
+                    "idPeriodo": "15",
+                    "nombrePeriodo": "I",
+                    "nota": "4.12"
+                },
+                {
+                    "idArea": "16",
+                    "idPeriodo": "16",
+                    "nombrePeriodo": "II",
+                    "nota": "4.66"
+                },
+                {
+                    "idArea": "16",
+                    "idPeriodo": "17",
+                    "nombrePeriodo": "III",
+                    "nota": "4.57"
+                },
+                {
+                    "idArea": "16",
+                    "idPeriodo": "18",
+                    "nombrePeriodo": "IV",
+                    "nota": "4.50"
+                }
+            ],
+            "asignaturas": [
+                {
+                    "idArea": "16",
+                    "id": "16",
+                    "nombre": "Tecnolog\u00eda e Inform\u00e1tica",
+                    "tipoNota": "0",
+                    "periodos": [
+                        {
+                            "id": "15",
+                            "nombre": "I",
+                            "idAsignatura": "16",
+                            "criterios": [
+                                {
+                                    "id": "10",
+                                    "nombre": "I",
+                                    "notaFinal": "3.5",
+                                    "actividades": [
+                                        {
+                                            "id":1,
+                                            "nombre": "prueba 1",
+                                            "porcentaje": "10%",
+                                            "nota": "3.00"
+                                        }
+                                    ],
+                                    "porcentaje": "30%"
+                                },
+                                {
+                                    "id": "11",
+                                    "nombre": "II",
+                                    "notaFinal": "3.5",
+                                    "actividades": [
+                                        {
+                                            "id":1,
+                                            "nombre": "prueba 1",
+                                            "porcentaje": "10%",
+                                            "nota": "3.00"
+                                        },
+                                        {
+                                            "id":2,
+                                            "nombre": "prueba 2",
+                                            "porcentaje": "10%",
+                                            "nota": "3.00"
+                                        }
+                                    ],
+                                    "porcentaje": "30%"
+                                },
+                                {
+                                    "id": "12",
+                                    "nombre": "III",
+                                    "notaFinal": "3.5",
+                                    "actividades": [
+                                        {
+                                            "id":2,
+                                            "nombre": "nombre",
+                                            "porcentaje": "10%",
+                                            "nota": "3.00"
+                                        }
+                                    ],
+                                    "porcentaje": "20%"
+                                },
+                                {
+                                    "id": "12",
+                                    "nombre": "III",
+                                    "notaFinal": "3.5",
+                                    "actividades": [
+                                        {
+                                            "id":3,
+                                            "nombre": "nombre",
+                                            "porcentaje": null,
+                                            "nota": "3.00"
+                                        }
+                                    ],
+                                    "porcentaje": "20%"
+                                }
+                            ],
+                            "definitivo": 0,
+                            "nota": "4.12"
+                        },
+                        {
+                            "id": "16",
+                            "nombre": "II",
+                            "idAsignatura": "16",
+                            "criterios": [
+                                {
+                                    "id": "10",
+                                    "nombre": "I",
+                                    "notaFinal": "3.5",
+                                    "actividades": [
+                                        {
+                                            "id":1,
+                                            "nombre": "prueba 1",
+                                            "porcentaje": "10%",
+                                            "nota": "3.00"
+                                        }
+                                    ],
+                                    "porcentaje": "30%"
+                                },
+                                {
+                                    "id": "11",
+                                    "nombre": "II",
+                                    "notaFinal": "3.5",
+                                    "actividades": [
+                                        {
+                                            "id":1,
+                                            "nombre": "prueba 1",
+                                            "porcentaje": "10%",
+                                            "nota": "3.00"
+                                        },
+                                        {
+                                            "id":2,
+                                            "nombre": "prueba 2",
+                                            "porcentaje": "10%",
+                                            "nota": "3.00"
+                                        }
+                                    ],
+                                    "porcentaje": "30%"
+                                },
+                                {
+                                    "id": "12",
+                                    "nombre": "III",
+                                    "notaFinal": "3.5",
+                                    "actividades": [
+                                        {
+                                            "id":2,
+                                            "nombre": "nombre",
+                                            "porcentaje": "10%",
+                                            "nota": "3.00"
+                                        }
+                                    ],
+                                    "porcentaje": "20%"
+                                },
+                                {
+                                    "id": "12",
+                                    "nombre": "III",
+                                    "notaFinal": "3.5",
+                                    "actividades": [
+                                        {
+                                            "id":3,
+                                            "nombre": "nombre",
+                                            "porcentaje": null,
+                                            "nota": "3.00"
+                                        }
+                                    ],
+                                    "porcentaje": "20%"
+                                }
+                            ],
+                            "definitivo": 0,
+                            "nota": "4.66"
+                        },
+                        {
+                            "id": "17",
+                            "nombre": "III",
+                            "idAsignatura": "16",
+                            "criterios": [
+                                {
+                                    "id": "10",
+                                    "nombre": "I",
+                                    "notaFinal": "3.5",
+                                    "actividades": [
+                                        {
+                                            "id":1,
+                                            "nombre": "prueba 1",
+                                            "porcentaje": "10%",
+                                            "nota": "3.00"
+                                        }
+                                    ],
+                                    "porcentaje": "30%"
+                                },
+                                {
+                                    "id": "11",
+                                    "nombre": "II",
+                                    "notaFinal": "3.5",
+                                    "actividades": [
+                                        {
+                                            "id":1,
+                                            "nombre": "prueba 1",
+                                            "porcentaje": "10%",
+                                            "nota": "3.00"
+                                        },
+                                        {
+                                            "id":2,
+                                            "nombre": "prueba 2",
+                                            "porcentaje": "10%",
+                                            "nota": "3.00"
+                                        }
+                                    ],
+                                    "porcentaje": "30%"
+                                },
+                                {
+                                    "id": "12",
+                                    "nombre": "III",
+                                    "notaFinal": "3.5",
+                                    "actividades": [
+                                        {
+                                            "id":2,
+                                            "nombre": "nombre",
+                                            "porcentaje": "10%",
+                                            "nota": "3.00"
+                                        }
+                                    ],
+                                    "porcentaje": "20%"
+                                },
+                                {
+                                    "id": "12",
+                                    "nombre": "III",
+                                    "notaFinal": "3.5",
+                                    "actividades": [
+                                        {
+                                            "id":3,
+                                            "nombre": "nombre",
+                                            "porcentaje": null,
+                                            "nota": "3.00"
+                                        }
+                                    ],
+                                    "porcentaje": "20%"
+                                }
+                            ],
+                            "definitivo": 0,
+                            "nota": "4.57"
+                        },
+                        {
+                            "id": "18",
+                            "nombre": "IV",
+                            "idAsignatura": "16",
+                            "criterios": [
+                                {
+                                    "id": "10",
+                                    "nombre": "I",
+                                    "notaFinal": "3.5",
+                                    "actividades": [
+                                        {
+                                            "id":1,
+                                            "nombre": "prueba 1",
+                                            "porcentaje": "10%",
+                                            "nota": "3.00"
+                                        }
+                                    ],
+                                    "porcentaje": "30%"
+                                },
+                                {
+                                    "id": "11",
+                                    "nombre": "II",
+                                    "notaFinal": "3.5",
+                                    "actividades": [
+                                        {
+                                            "id":1,
+                                            "nombre": "prueba 1",
+                                            "porcentaje": "10%",
+                                            "nota": "3.00"
+                                        },
+                                        {
+                                            "id":2,
+                                            "nombre": "prueba 2",
+                                            "porcentaje": "10%",
+                                            "nota": "3.00"
+                                        }
+                                    ],
+                                    "porcentaje": "30%"
+                                },
+                                {
+                                    "id": "12",
+                                    "nombre": "III",
+                                    "notaFinal": "3.5",
+                                    "actividades": [
+                                        {
+                                            "id":2,
+                                            "nombre": "nombre",
+                                            "porcentaje": "10%",
+                                            "nota": "3.00"
+                                        }
+                                    ],
+                                    "porcentaje": "20%"
+                                },
+                                {
+                                    "id": "12",
+                                    "nombre": "III",
+                                    "notaFinal": "3.5",
+                                    "actividades": [
+                                        {
+                                            "id":3,
+                                            "nombre": "nombre",
+                                            "porcentaje": null,
+                                            "nota": "3.00"
+                                        }
+                                    ],
+                                    "porcentaje": "20%"
+                                }
+                            ],
+                            "definitivo": 0,
+                            "nota": "4.50"
+                        },
+                        {
+                            "id": null,
+                            "nombre": "DF",
+                            "idAsignatura": "16",
+                            "definitivo": 1,
+                            "nota": "4.46"
+                        }
+                    ]
+                }
+            ]
+        }
+    ],
+    "total": 9
+}
