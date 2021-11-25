@@ -1,69 +1,125 @@
 {
-    "estado":true,
-    "success":true,
-    "codigoMensaje":0,
-    "mensaje":"",
-    "datos":[
+    "estado": true,
+    "success": true,
+    "codigoMensaje": 0,
+    "mensaje": "",
+    "datos": [
         {
-
-            "id":1,
-            "bd":"bdmail",
-            "userid":23,
-            
-            "bandejaEntrada":[
-                {   
-                    "id":1,
-                    "idremite":22,
-                    "nombre":"javier Solano",
-                    "fecha":"2021-10-08.13.0000",
-                    "isfavorite":false,
-                    "status":"activo",
-                    "asunto":" importante",
-                    "mensaje":"LoremIpsum"
+            "id": 1,
+            "bd": "bdmail",
+            "userid": 23,
+            "tipobandeja": [
+                {
+                    "id": 1,
+                    "nombre": "recibidos",
+                    "correos": [
+                        {
+                            "id": 1,
+                            "idremite": 22,
+                            "nombre": "javier javier",
+                            "fecha": "2021-10-08.13.0000",
+                            "isfavorite": false,
+                            "status": "activo",
+                            "asunto": " importante",
+                            "mensaje": "LoremIpsum"
+                        },
+                        {
+                            "id": 1,
+                            "idremite": 22,
+                            "nombre": "javier Solano",
+                            "fecha": "2021-10-08.13.0000",
+                            "isfavorite": false,
+                            "status": "activo",
+                            "asunto": " importante",
+                            "mensaje": "LoremIpsum"
+                        },
+                        {
+                            "id": 1,
+                            "idremite": 22,
+                            "nombre": "javier Solano",
+                            "fecha": "2021-10-08.13.0000",
+                            "isfavorite": false,
+                            "status": "activo",
+                            "asunto": " importante",
+                            "mensaje": "LoremIpsum"
+                        }
+                    ],
+                    "total": 3
                 },
-                {   
-                    "id":2,
-                    "idremite":22,
-                    "nombre":"javier Solano",
-                    "fecha":"2021-10-08.13.0000",
-                    "isfavorite":true,
-                    "status":"borrador",
-                    "asunto":" importante",
-                    "mensaje":"LoremIpsum"
+                {
+                    "id": 2,
+                    "nombre": "destacados",
+                    "correos": [
+                        {
+                            "id": 1,
+                            "idremite": 22,
+                            "nombre": "javier Solano",
+                            "fecha": "2021-10-08.13.0000",
+                            "isfavorite": false,
+                            "status": "activo",
+                            "asunto": " importante",
+                            "mensaje": "LoremIpsum"
+                        },
+                        {
+                            "id": 2,
+                            "idremite": 22,
+                            "nombre": "javier Solano",
+                            "fecha": "2021-10-08.13.0000",
+                            "isfavorite": false,
+                            "status": "activo",
+                            "asunto": " importante",
+                            "mensaje": "LoremIpsum"
+                        },
+                        {
+                            "id": 3,
+                            "idremite": 22,
+                            "nombre": "javier Solano",
+                            "fecha": "2021-10-08.13.0000",
+                            "isfavorite": false,
+                            "status": "activo",
+                            "asunto": " importante",
+                            "mensaje": "LoremIpsum"
+                        }
+                    ]
                 },
-                {   
-                    "id":3,
-                    "idremite":22,
-                    "nombre":"javier Solano",
-                    "fecha":"2021-11-08.13.0000",
-                    "isfavorite":true,
-                    "status":"inactivo",
-                    "asunto":" importante",
-                    "mensaje":"LoremIpsum"
+                {
+                    "id": 3,
+                    "nombre": "enviados",
+                    "correos": [
+                        {
+                            "id": 1,
+                            "idremite": 22,
+                            "nombre": "javier Solano",
+                            "fecha": "2021-10-08.13.0000",
+                            "isfavorite": false,
+                            "status": "activo",
+                            "asunto": " importante",
+                            "mensaje": "LoremIpsum"
+                        },
+                        {
+                            "id": 2,
+                            "idremite": 22,
+                            "nombre": "javier Solano",
+                            "fecha": "2021-10-08.13.0000",
+                            "isfavorite": false,
+                            "status": "activo",
+                            "asunto": " importante",
+                            "mensaje": "LoremIpsum"
+                        },
+                        {
+                            "id": 3,
+                            "idremite": 22,
+                            "nombre": "javier Solano",
+                            "fecha": "2021-10-08.13.0000",
+                            "isfavorite": false,
+                            "status": "activo",
+                            "asunto": " importante",
+                            "mensaje": "LoremIpsum"
+                        }
+                    ]
                 }
-            ],
-
-            "bandejaSalida":[
-
-                {   
-                    "id":1,
-                    "idremite":22,
-                    "nombre":"javier Solano",
-                    "fecha":"2021-10-08.13.0000",
-                    "isfavorite":false,
-                    "status":"activo",
-                    "asunto":" importante",
-                    "mensaje":"LoremIpsum"
-                }
-
-
-
             ]
-
-
-
         }
-
     ],
-    "total":9
+    "total": 9
 }
