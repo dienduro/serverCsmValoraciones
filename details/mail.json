@@ -12,11 +12,11 @@
                 {
                     "id": 1,
                     "nombre": "recibidos",
-                    "icono": "Icons.inbox",
+                    "iconoCode": 58170,
                     "correos": [
                         {
                             "id": 1,
-                            "idremite": 22,
+                            "idremite": 20,
                             "nombre": "javier javier",
                             "fecha": "2021-10-08.13.0000",
                             "leido": true,
@@ -26,9 +26,9 @@
                             "mensaje": "LoremIpsum"
                         },
                         {
-                            "id": 1,
-                            "idremite": 22,
-                            "nombre": "javier Solano",
+                            "id": 2,
+                            "idremite": 21,
+                            "nombre": "javier ggg",
                             "fecha": "2021-10-08.13.0000",
                             "leido": true,
                             "isfavorite": false,
@@ -37,9 +37,20 @@
                             "mensaje": "LoremIpsum"
                         },
                         {
-                            "id": 1,
+                            "id": 3,
                             "idremite": 22,
-                            "nombre": "javier Solano",
+                            "nombre": "javier hhh",
+                            "fecha": "2021-10-08.13.0000",
+                            "leido": false,
+                            "isfavorite": false,
+                            "status": "activo",
+                            "asunto": " importante",
+                            "mensaje": "LoremIpsum"
+                        },
+                        {
+                            "id": 4,
+                            "idremite": 23,
+                            "nombre": "javier huuuh",
                             "fecha": "2021-10-08.13.0000",
                             "leido": false,
                             "isfavorite": false,
@@ -53,7 +64,7 @@
                 {
                     "id": 2,
                     "nombre": "destacados",
-                    "icono": "Icons.inbox",
+                    "iconoCode": 58170,
                     "correos": [
                         {
                             "id": 1,
@@ -85,13 +96,13 @@
                             "asunto": " importante",
                             "mensaje": "LoremIpsum"
                         }
-                    ],
-                    "mensajenoleido": 3
+                    ]
+                    
                 },
                 {
                     "id": 3,
                     "nombre": "enviados",
-                    "icono": "Icons.inbox",
+                    "iconoCode": 58170,
                     "correos": [
                         {
                             "id": 1,
@@ -123,8 +134,8 @@
                             "asunto": " importante",
                             "mensaje": "LoremIpsum"
                         }
-                    ],
-                    "mensajenoleido": 3
+                    ]
+                   
                 }
             ]
         }
