@@ -36,7 +36,7 @@ accountRoutes.get('/mail', [check('userid', 'el id del usuario es obligatorio').
 
 accountRoutes.post('/mail/sendemail', (req, res) => {
 
-  var existMail = getEmailData()
+ /*  var existMail = getEmailData()
   const newAccountId = Math.floor(100000 + Math.random() * 900000)
 
   existMail[newAccountId] = req.body
@@ -44,7 +44,7 @@ accountRoutes.post('/mail/sendemail', (req, res) => {
   console.log(existMail);
 
   saveAccountData(existMail);
-  res.send({ success: true, msg: 'account data added successfully' })
+  res.send({ success: true, msg: 'account data added successfully' }) */
 })
 
 // Read - get all accounts from the json file

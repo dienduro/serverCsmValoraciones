@@ -6,7 +6,8 @@
     "datos": [
         {
             "id": 1,
-            "nombre": "Talleres",
+            "idAsignatura": 2,
+            "idEstudiante": 446,
             "asignatura": "Educacion etica y en valores",
             "fechaApertura": "2021-10-08.13.0000",
             "fechaCierre": "2021-11-08.13.0000",
@@ -45,7 +46,51 @@
                 }
             ],
             "entregas": []
+        },
+        {
+            "id": 2,
+            "idAsignatura": 3,
+            "idEstudiante": 446,
+            "asignatura": "Matematicas",
+            "fechaApertura": "2021-10-08.13.0000",
+            "fechaCierre": "2021-11-08.13.0000",
+            "actividades": [
+                {
+                    "id": 1,
+                    
+                    "nombre": "Guia definitiva",
+                    "fechaApertura": "2021-10-08.13.0000",
+                    "fechaEntrega": "2021-11-08.13.0000",
+                    "descripcion": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque ut commodo orci. Phasellus et hendrerit risus. Nunc imperdiet eu justo a gravida. Donec mollis tincidunt libero vitae rutrum. Mauris vitae felis lacinia nisl interdum commodo in non libero. Suspendisse potenti. Integer elementum, ipsum nec vestibulum bibendum, nisl nibh ullamcorper nisi, in blandit turpis odio eget arcu.",
+                    "archivos": ""
+                },
+                {
+                    "id": 2,
+                    "nombre": "Guia definitiva",
+                    "fechaApertura": "2021-10-08.13.0000",
+                    "fechaEntrega": "2021-11-08.13.0000",
+                    "descripcion": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque ut commodo orci. Phasellus et hendrerit risus. Nunc imperdiet eu justo a gravida. Donec mollis tincidunt libero vitae rutrum. Mauris vitae felis lacinia nisl interdum commodo in non libero. Suspendisse potenti. Integer elementum, ipsum nec vestibulum bibendum, nisl nibh ullamcorper nisi, in blandit turpis odio eget arcu.",
+                    "archivos": ""
+                },
+                {
+                    "id": 3,
+                    "nombre": "Guia definitiva",
+                    "fechaApertura": "2021-10-08.13.0000",
+                    "fechaEntrega": "2021-11-08.13.0000",
+                    "descripcion": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque ut commodo orci. Phasellus et hendrerit risus. Nunc imperdiet eu justo a gravida. Donec mollis tincidunt libero vitae rutrum. Mauris vitae felis lacinia nisl interdum commodo in non libero. Suspendisse potenti. Integer elementum, ipsum nec vestibulum bibendum, nisl nibh ullamcorper nisi, in blandit turpis odio eget arcu.",
+                    "archivos": ""
+                },
+                {
+                    "id": 4,
+                    "nombre": "Guia definitiva",
+                    "fechaApertura": "2021-10-08.13.0000",
+                    "fechaEntrega": "2021-11-08.13.0000",
+                    "descripcion": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque ut commodo orci. Phasellus et hendrerit risus. Nunc imperdiet eu justo a gravida. Donec mollis tincidunt libero vitae rutrum. Mauris vitae felis lacinia nisl interdum commodo in non libero. Suspendisse potenti. Integer elementum, ipsum nec vestibulum bibendum, nisl nibh ullamcorper nisi, in blandit turpis odio eget arcu.",
+                    "archivos": ""
+                }
+            ],
+            "entregas": []
         }
     ],
-    "total": 1
+    "total": 2
 }

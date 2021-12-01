@@ -1,9 +1,12 @@
-const exports = require('express');
+const express = require('express');
 
 const {check} = require('express-validator');
 
+
+const accountRoutes = express.Router();
 const fs = require('fs');
 const dataPath = './Details/aulavirtual.json';
+
 const saveAccountData = (data) => {
     const stringifyData = JSON.stringify(data)
     fs.writeFileSync(dataPath, stringifyData)
@@ -17,7 +20,7 @@ const saveAccountData = (data) => {
 
   accountRoutes.post('/aula/newFile', (req, res) => {
 
-    var existMail = getAulalData()
+    /* var existMail = getData()
     const newAccountId = Math.floor(100000 + Math.random() * 900000)
   
     existMail[newAccountId] = req.body
@@ -25,19 +28,19 @@ const saveAccountData = (data) => {
     console.log(existMail);
   
     saveAccountData(existMail);
-    res.send({ success: true, msg: 'account data added successfully' })
+    res.send({ success: true, msg: 'account data added successfully' }) */
   })
 
   accountRoutes.get('/aula/list/', (req, res) => {
 
-    const mail = getAulaData()
-    res.send(mail)
+    const aula = getData()
+    res.send(aula)
   })
 
   //delete - using delete method
 accountRoutes.delete('/aula/delete/:id', (req, res) => {
     fs.readFile(dataPath, 'utf8', (err, data) => {
-      var existAccounts = getAulaData()
+      var existAccounts = getData()
   
       const userId = req.params['id'];
   
