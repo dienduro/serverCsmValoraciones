@@ -1,0 +1,51 @@
+{
+    "estado": true,
+    "success": true,
+    "codigoMensaje": 0,
+    "mensaje": "",
+    "datos": [
+        {
+            "nombre": "Inicio Ano Escolar",
+            "lugar": "online",
+            "fecha": "11/11/2021",
+            "enlace": "http://www.com"
+        },
+        {
+            "nombre": "Socializacion de notas primer periodo 2021",
+            "lugar": "online",
+            "fecha": "11/11/2021",
+            "enlace": "http://www.com"
+        },
+        {
+            "nombre": "Socializacion de notas primer periodo 2021",
+            "lugar": "online",
+            "fecha": "11/11/2021",
+            "enlace": "http://www.com"
+        },
+        {
+            "nombre": "Socializacion de notas primer periodo 2021",
+            "lugar": "online",
+            "fecha": "11/11/2021",
+            "enlace": "http://www.com"
+        },
+        {
+            "nombre": "Socializacion de notas primer periodo 2021",
+            "lugar": "online",
+            "fecha": "11/11/2021",
+            "enlace": "http://www.com"
+        },
+        {
+            "nombre": "Socializacion de notas primer periodo 2021",
+            "lugar": "online",
+            "fecha": "11/11/2021",
+            "enlace": "http://www.com"
+        },
+        {
+            "nombre": "Socializacion de notas primer periodo 2021",
+            "lugar": "online",
+            "fecha": "11/11/2021",
+            "enlace": "http://www.com"
+        }
+    ],
+    "total": 2
+}
