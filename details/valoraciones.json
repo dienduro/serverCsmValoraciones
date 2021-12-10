@@ -93,6 +93,7 @@
         {
             "id": "18",
             "nombre": "Ciencias Naturales",
+            
             "periodos": [
                 {
                     "idArea": "18",
@@ -233,6 +234,7 @@
                             "nota": "3.76"
                         },
                         {
+
                             "id": "17",
                             "nombre": "III",
                             "idAsignatura": "20",
@@ -364,6 +366,12 @@
                     "idArea": "19",
                     "idPeriodo": "18",
                     "nombrePeriodo": "IV",
+                    "nota": "4.90"
+                },
+                {
+                    "idArea": "19",
+                    "idPeriodo": null,
+                    "nombrePeriodo": "DF",
                     "nota": "4.90"
                 }
             ],
@@ -526,6 +534,12 @@
                     "idPeriodo": "18",
                     "nombrePeriodo": "IV",
                     "nota": "4.50"
+                },
+                {
+                    "idArea": "15",
+                    "idPeriodo": null,
+                    "nombrePeriodo": "DF",
+                    "nota": "4.90"
                 }
             ],
             "asignaturas": [
