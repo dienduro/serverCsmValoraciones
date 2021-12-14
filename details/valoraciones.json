@@ -98,24 +98,28 @@
                 {
                     "idArea": "18",
                     "idPeriodo": "15",
+                    "definitivo": 0,
                     "nombrePeriodo": "I",
                     "nota": "3.10"
                 },
                 {
                     "idArea": "18",
                     "idPeriodo": "16",
+                    "definitivo": 0,
                     "nombrePeriodo": "II",
                     "nota": "4.06"
                 },
                 {
                     "idArea": "18",
                     "idPeriodo": "17",
+                    "definitivo": 0,
                     "nombrePeriodo": "III",
                     "nota": "3.98"
                 },
                 {
                     "idArea": "18",
                     "idPeriodo": "18",
+                    "definitivo": 0,
                     "nombrePeriodo": "IV",
                     "nota": "4.26"
                 },
@@ -267,30 +271,35 @@
                 {
                     "idArea": "22",
                     "idPeriodo": "15",
+                    "definitivo": 0,
                     "nombrePeriodo": "I",
                     "nota": "3.53"
                 },
                 {
                     "idArea": "22",
                     "idPeriodo": "16",
+                    "definitivo": 0,
                     "nombrePeriodo": "II",
                     "nota": "4.81"
                 },
                 {
                     "idArea": "22",
                     "idPeriodo": "17",
+                    "definitivo": 0,
                     "nombrePeriodo": "III",
                     "nota": "4.60"
                 },
                 {
                     "idArea": "22",
                     "idPeriodo": "18",
+                    "definitivo": 0,
                     "nombrePeriodo": "IV",
                     "nota": "4.77"
                 },
                 {
                     "idArea": "22",
                     "idPeriodo": null,
+                    "definitivo": 1,
                     "nombrePeriodo": "DF",
                     "nota": "4.77"
                 }
@@ -348,30 +357,35 @@
                 {
                     "idArea": "19",
                     "idPeriodo": "15",
+                    "definitivo": 0,
                     "nombrePeriodo": "I",
                     "nota": "4.02"
                 },
                 {
                     "idArea": "19",
                     "idPeriodo": "16",
+                    "definitivo": 0,
                     "nombrePeriodo": "II",
                     "nota": "4.76"
                 },
                 {
                     "idArea": "19",
                     "idPeriodo": "17",
+                    "definitivo": 0,
                     "nombrePeriodo": "III",
                     "nota": "4.63"
                 },
                 {
                     "idArea": "19",
                     "idPeriodo": "18",
+                    "definitivo": 0,
                     "nombrePeriodo": "IV",
                     "nota": "4.90"
                 },
                 {
                     "idArea": "19",
                     "idPeriodo": null,
+                    "definitivo": 1,
                     "nombrePeriodo": "DF",
                     "nota": "4.90"
                 }
@@ -515,30 +529,35 @@
                 {
                     "idArea": "15",
                     "idPeriodo": "15",
+                    "definitivo": 0,
                     "nombrePeriodo": "I",
                     "nota": "4.28"
                 },
                 {
                     "idArea": "15",
                     "idPeriodo": "16",
+                    "definitivo": 0,
                     "nombrePeriodo": "II",
                     "nota": "4.36"
                 },
                 {
                     "idArea": "15",
                     "idPeriodo": "17",
+                    "definitivo": 0,
                     "nombrePeriodo": "III",
                     "nota": "3.59"
                 },
                 {
                     "idArea": "15",
                     "idPeriodo": "18",
+                    "definitivo": 0,
                     "nombrePeriodo": "IV",
                     "nota": "4.50"
                 },
                 {
                     "idArea": "15",
                     "idPeriodo": null,
+                    "definitivo": 1,
                     "nombrePeriodo": "DF",
                     "nota": "4.90"
                 }
@@ -596,18 +615,21 @@
                 {
                     "idArea": "10",
                     "idPeriodo": "15",
+                    "definitivo": 0,
                     "nombrePeriodo": "I",
                     "nota": "4.65"
                 },
                 {
                     "idArea": "10",
                     "idPeriodo": "16",
+                    "definitivo": 0,
                     "nombrePeriodo": "II",
                     "nota": "4.54"
                 },
                 {
                     "idArea": "10",
                     "idPeriodo": "17",
+                    "definitivo": 0,
                     "nombrePeriodo": "III",
                     "nota": "4.26"
                 }
@@ -818,26 +840,37 @@
                 {
                     "idArea": "14",
                     "idPeriodo": "15",
+                    "definitivo":0,
                     "nombrePeriodo": "I",
                     "nota": "3.62"
                 },
                 {
                     "idArea": "14",
                     "idPeriodo": "16",
+                    "definitivo":0,
                     "nombrePeriodo": "II",
                     "nota": "4.94"
                 },
                 {
                     "idArea": "14",
                     "idPeriodo": "17",
+                    "definitivo":0,
                     "nombrePeriodo": "III",
                     "nota": "4.02"
                 },
                 {
                     "idArea": "14",
                     "idPeriodo": "18",
+                    "definitivo":0,
                     "nombrePeriodo": "IV",
                     "nota": "5.00"
+                },
+                {
+                    "id": null,
+                    "nombre": "DF",
+                    "idAsignatura": "14",
+                    "definitivo": 1,
+                    "nota": "4.40"
                 }
             ],
             "asignaturas": [
@@ -893,24 +926,28 @@
                 {
                     "idArea": "20",
                     "idPeriodo": "15",
+                    "definitivo": 0,
                     "nombrePeriodo": "I",
                     "nota": "4.01"
                 },
                 {
                     "idArea": "20",
                     "idPeriodo": "16",
+                    "definitivo": 0,
                     "nombrePeriodo": "II",
                     "nota": "3.97"
                 },
                 {
                     "idArea": "20",
                     "idPeriodo": "17",
+                    "definitivo": 0,
                     "nombrePeriodo": "III",
                     "nota": "4.25"
                 },
                 {
                     "idArea": "20",
                     "idPeriodo": "18",
+                    "definitivo": 0,
                     "nombrePeriodo": "IV",
                     "nota": "4.00"
                 }
@@ -968,24 +1005,28 @@
                 {
                     "idArea": "16",
                     "idPeriodo": "15",
+                    "definitivo": 0,
                     "nombrePeriodo": "I",
                     "nota": "4.12"
                 },
                 {
                     "idArea": "16",
                     "idPeriodo": "16",
+                    "definitivo": 0,
                     "nombrePeriodo": "II",
                     "nota": "4.66"
                 },
                 {
                     "idArea": "16",
                     "idPeriodo": "17",
+                    "definitivo": 0,
                     "nombrePeriodo": "III",
                     "nota": "4.57"
                 },
                 {
                     "idArea": "16",
                     "idPeriodo": "18",
+                    "definitivo": 0,
                     "nombrePeriodo": "IV",
                     "nota": "4.50"
                 }
