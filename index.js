@@ -12,6 +12,11 @@ app.use(bodyParser.urlencoded({extended: true}));
 //route 
 const routes = require('./Routes/routes');
 
+
+//DB Configuration
+const {dbConnection} = require('./database/config');
+
+dbConnection();
 app.use('/',routes);
 
 //puerto dinamico
