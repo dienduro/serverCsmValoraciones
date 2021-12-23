@@ -1,0 +1,29 @@
+{
+    "estado": true,
+    "success": true,
+    "codigoMensaje": 0,
+    "mensaje": "",
+    "datos": [
+        {
+            "id":1,
+            "nombre": "tarjeta_Identidad.pdf",
+            "descripcion": "tarjeta de identidad del estudiante Karen"
+        },
+        {
+            "id":2,
+            "nombre": "certificado.pdf",
+            "descripcion": "tarjeta de identidad del estudiante Karen"
+        },
+        {
+            "id":3,
+            "nombre": "boletin_1er_periodo.pdf",
+            "descripcion": "tarjeta de identidad del estudiante Karen"
+        },
+        {
+            "id":4,
+            "nombre": "boletin_2do_periodo.pdf",
+            "descripcion": "tarjeta de identidad del estudiante Karen"
+        }
+    ],
+    "total": 7
+}

@@ -1,0 +1,29 @@
+{
+    "estado": true,
+    "success": true,
+    "codigoMensaje": 0,
+    "mensaje": "",
+    "datos": [
+        {
+            "id":1,
+            "base64file": "",
+            "descripcion": "tarjeta de identidad del estudiante Karen"
+        },
+        {
+            "id":2,
+            "base64file": "",
+            "descripcion": "tarjeta de identidad del estudiante Karen"
+        },
+        {
+            "id":3,
+            "base64file": "",
+            "descripcion": "tarjeta de identidad del estudiante Karen"
+        },
+        {
+            "id":4,
+            "base64file": "",
+            "descripcion": "tarjeta de identidad del estudiante Karen"
+        }
+    ],
+    "total": 7
+}
