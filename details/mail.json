@@ -11,14 +11,13 @@
             "tipobandeja": [
                 {
                     "id": 1,
-                    "nombre": "recibidos",
-                    "iconoCode": 58170,
+                    "nombre": "Recibidos",
                     "correos": [
                         {
                             "id": 1,
                             "idremite": 20,
                             "nombre": "javier javier",
-                            "fecha": "2021-10-08.13.0000",
+                            "fecha": "2021-10-08",
                             "leido": true,
                             "isfavorite": false,
                             "status": "activo",
@@ -29,7 +28,7 @@
                             "id": 2,
                             "idremite": 21,
                             "nombre": "javier ggg",
-                            "fecha": "2021-10-08.13.0000",
+                            "fecha": "2021-10-08",
                             "leido": true,
                             "isfavorite": false,
                             "status": "activo",
@@ -40,7 +39,7 @@
                             "id": 3,
                             "idremite": 22,
                             "nombre": "javier hhh",
-                            "fecha": "2021-10-08.13.0000",
+                            "fecha": "2021-10-08",
                             "leido": false,
                             "isfavorite": false,
                             "status": "activo",
@@ -51,7 +50,47 @@
                             "id": 4,
                             "idremite": 23,
                             "nombre": "javier huuuh",
-                            "fecha": "2021-10-08.13.0000",
+                            "fecha": "2021-10-08",
+                            "leido": false,
+                            "isfavorite": true,
+                            "status": "activo",
+                            "asunto": " importante",
+                            "mensaje": "LoremIpsum"
+                        }
+                    ],
+                    "mensajenoleido": 2
+                },
+                {
+                    "id": 2,
+                    "nombre": "Enviados",
+                    "correos": [
+                        {
+                            "id": 1,
+                            "idremite": 22,
+                            "nombre": "javier Solano",
+                            "fecha": "2021-10-08",
+                            "leido": false,
+                            "isfavorite": false,
+                            "status": "activo",
+                            "asunto": " importante",
+                            "mensaje": "LoremIpsum"
+                        },
+                        {
+                            "id": 2,
+                            "idremite": 22,
+                            "nombre": "javier Solano",
+                            "fecha": "2021-10-08",
+                            "leido": false,
+                            "isfavorite": false,
+                            "status": "activo",
+                            "asunto": " importante",
+                            "mensaje": "LoremIpsum"
+                        },
+                        {
+                            "id": 3,
+                            "idremite": 22,
+                            "nombre": "javier Solano",
+                            "fecha": "2021-10-08",
                             "leido": false,
                             "isfavorite": false,
                             "status": "activo",
@@ -62,15 +101,15 @@
                     "mensajenoleido": 3
                 },
                 {
-                    "id": 2,
-                    "nombre": "destacados",
-                    "iconoCode": 58170,
+                    "id": 3,
+                    "nombre": "Destacados",
                     "correos": [
                         {
                             "id": 1,
                             "idremite": 22,
                             "nombre": "javier Solano",
-                            "fecha": "2021-10-08.13.0000",
+                            "fecha": "2021-10-08",
+                            "leido": false,
                             "isfavorite": false,
                             "status": "activo",
                             "asunto": " importante",
@@ -80,7 +119,8 @@
                             "id": 2,
                             "idremite": 22,
                             "nombre": "javier Solano",
-                            "fecha": "2021-10-08.13.0000",
+                            "fecha": "2021-10-08",
+                            "leido": false,
                             "isfavorite": false,
                             "status": "activo",
                             "asunto": " importante",
@@ -90,25 +130,26 @@
                             "id": 3,
                             "idremite": 22,
                             "nombre": "javier Solano",
-                            "fecha": "2021-10-08.13.0000",
+                            "fecha": "2021-10-08",
+                            "leido": false,
                             "isfavorite": false,
                             "status": "activo",
                             "asunto": " importante",
                             "mensaje": "LoremIpsum"
                         }
-                    ]
-                    
+                    ],
+                    "mensajenoleido": 3
                 },
                 {
-                    "id": 3,
-                    "nombre": "enviados",
-                    "iconoCode": 58170,
+                    "id": 4,
+                    "nombre": "Eliminados",
                     "correos": [
                         {
                             "id": 1,
                             "idremite": 22,
                             "nombre": "javier Solano",
-                            "fecha": "2021-10-08.13.0000",
+                            "fecha": "2021-10-08",
+                            "leido": false,
                             "isfavorite": false,
                             "status": "activo",
                             "asunto": " importante",
@@ -118,7 +159,8 @@
                             "id": 2,
                             "idremite": 22,
                             "nombre": "javier Solano",
-                            "fecha": "2021-10-08.13.0000",
+                            "fecha": "2021-10-08",
+                            "leido": false,
                             "isfavorite": false,
                             "status": "activo",
                             "asunto": " importante",
@@ -128,14 +170,15 @@
                             "id": 3,
                             "idremite": 22,
                             "nombre": "javier Solano",
-                            "fecha": "2021-10-08.13.0000",
+                            "fecha": "2021-10-08",
+                            "leido": false,
                             "isfavorite": false,
                             "status": "activo",
                             "asunto": " importante",
                             "mensaje": "LoremIpsum"
                         }
-                    ]
-                   
+                    ],
+                    "mensajenoleido": 3
                 }
             ]
         }
