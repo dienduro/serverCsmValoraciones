@@ -1,4 +1,5 @@
 {
+    "857889": {},
     "estado": true,
     "success": true,
     "codigoMensaje": 0,
@@ -142,6 +143,46 @@
                 },
                 {
                     "id": 4,
+                    "nombre": "Borradores",
+                    "correos": [
+                        {
+                            "id": 1,
+                            "idremite": 22,
+                            "nombre": "javier Solano",
+                            "fecha": "2021-10-08",
+                            "leido": false,
+                            "isfavorite": false,
+                            "status": "activo",
+                            "asunto": " importante",
+                            "mensaje": "LoremIpsum"
+                        },
+                        {
+                            "id": 2,
+                            "idremite": 22,
+                            "nombre": "javier Solano",
+                            "fecha": "2021-10-08",
+                            "leido": false,
+                            "isfavorite": false,
+                            "status": "activo",
+                            "asunto": " importante",
+                            "mensaje": "LoremIpsum"
+                        },
+                        {
+                            "id": 3,
+                            "idremite": 22,
+                            "nombre": "javier Solano",
+                            "fecha": "2021-10-08",
+                            "leido": false,
+                            "isfavorite": false,
+                            "status": "activo",
+                            "asunto": " importante",
+                            "mensaje": "LoremIpsum"
+                        }
+                    ],
+                    "mensajenoleido": 3
+                },
+                {
+                    "id": 5,
                     "nombre": "Eliminados",
                     "correos": [
                         {
